@@ -1,5 +1,4 @@
 ### Hi there 👋, Welcome to my Portfolio.
-#### I am Nethsara Liyanage
 ![I am Nethsara Liyanage](https://raw.githubusercontent.com/nethsaraLiyanage/nethsara/master/Nethsara%20Liyanage.png)
 
 I am a hardworking and ambitious undergraduate, ready to learn from even the smallest experience I gain. While my passion lies in Computer Software and Hardware, Automobile, Photography and videography, I am determined to successfully face challenges that come in my way any day.
