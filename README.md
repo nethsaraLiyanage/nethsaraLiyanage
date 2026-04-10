@@ -54,15 +54,5 @@ Worked on:
 
 ---
 
-### 🌐 Connect With Me
-
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/nethsaraLiyanage)
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/nethsara-liyanage/)
-[![Website](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg)](https://nethsaraliyanage.github.io/)
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/nxtha.__/)
-[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/_nXtha_)
-
----
-
 ### ⚡ Fun Fact
 I’m also into **automobiles, photography, and videography** — I enjoy blending creativity with technology.
