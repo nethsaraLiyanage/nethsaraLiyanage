@@ -1,31 +1,68 @@
-### Hi there 👋, Welcome to my Portfolio.
-![I am Nethsara Liyanage](https://github.com/nethsaraLiyanage/nethsaraliyanage.github.io/blob/master/profile%20card.png)
+### Hi there 👋 I'm Nethsara Liyanage
 
-I am a hardworking and ambitious undergraduate, ready to learn from even the smallest experience I gain. While my passion lies in Computer Software and Hardware, Automobile, Photography and videography, I am determined to successfully face challenges that come in my way any day.
-In developing I would like to work with React JS, Node JS, JAVA, SQL and NoSQL databases as well as the Android platform.
+![Profile Banner](https://github.com/nethsaraLiyanage/nethsaraliyanage.github.io/blob/master/profile%20card.png)
 
-Skills: REACT / Node / JS / HTML / CSS / Bootstrap / SQL / NoSQL / Android / Flutter
+---
 
-- 🔭 I’m currently working at AXIATA DIGITAL LABS as an Associate Software Engineer.  
+### 🚀 About Me
 
+I’m a **Senior Full-Stack Software Engineer** with hands-on experience building **scalable microservices, cloud-based systems, and real-time applications**.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/nethsaraLiyanage)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/nethsara-liyanage/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/nxtha.__/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/_nXtha_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://nethsaraliyanage.github.io/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='30'>](https://www.behance.net/nethsarliyanag)  
+I specialize in designing and developing **production-grade systems** across domains like:
+- ⚡ Incident Management Systems  
+- 🌐 Cloud & IoT Platforms  
+- 💳 Fintech & Workflow Automation  
 
+I enjoy solving complex engineering problems, building efficient backend systems, and delivering clean, user-focused frontend experiences.
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethsaraLiyanage)](https://github.com/anuraghazra/github-readme-stats)
--->
-<!--
-**nethsaraLiyanage/nethsaraLiyanage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Frameworks**
+- JavaScript (Node.js, NestJS, Next.js, React, Angular)
+- Java (Spring Boot)
+- Python
+
+**Cloud & DevOps**
+- AWS (ECS, CodePipeline, CodeBuild)
+- Docker, Kubernetes
+- CI/CD (GitHub Actions, Jenkins)
+
+**Databases**
+- PostgreSQL, MySQL, MongoDB
+
+---
+
+### 💼 Experience
+
+- 💼 **Software Engineer** – Save Energy Systems Inc.  
+- 💼 **Associate Software Engineer** – Axiata Digital Labs  
+
+Worked on:
+- Microservices-based asset & incident management platforms  
+- IoT device monitoring and reporting systems  
+- Fintech workflow automation systems  
+
+---
+
+### 📌 Current Focus
+
+- Building scalable backend systems & APIs  
+- Exploring system design & distributed architectures  
+- Improving cloud-native development practices  
+
+---
+
+### 🌐 Connect With Me
+
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/nethsaraLiyanage)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/nethsara-liyanage/)
+[![Website](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg)](https://nethsaraliyanage.github.io/)
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/nxtha.__/)
+[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/_nXtha_)
+
+---
+
+### ⚡ Fun Fact
+I’m also into **automobiles, photography, and videography** — I enjoy blending creativity with technology.
